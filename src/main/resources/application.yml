@@ -3,4 +3,4 @@ spring:
     name: jenkins-demo
     
 server:
-  port: 8088
+  port: 8083
